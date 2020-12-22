@@ -1,2 +1,2 @@
-# Tipololog-a_Ciclo_Vida_Datos_Pr-ctica_2
+# Tipolologia_Ciclo_Vida_Datos_Practica_2
 Practica 2

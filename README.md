@@ -14,3 +14,4 @@ https://github.com/HubnerJanampaPatilla/Tipolologia_Ciclo_Vida_Datos_Practica_2/
 
 # Licencia
 * El contenido de este proyecto esta licencia bajo la Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International, y el código fuente usado para mostrar este contenido esta licenciado bajo la MIT license.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
